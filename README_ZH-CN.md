@@ -26,8 +26,6 @@ codex plugin add mattpocock-skills-codex@mattpocock-skills-codex
 
 在插件或应用市场设置中，按如下参数添加 Git 软件源：
 
-表格
-
 | 字段 | 值 |
 | --- | --- |
 | 来源 | `https://github.com/jianh-ai/mattpocock-skills-codex.git` |
