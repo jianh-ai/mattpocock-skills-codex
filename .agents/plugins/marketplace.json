@@ -1,0 +1,20 @@
+{
+  "name": "mattpocock-skills-codex",
+  "interface": {
+    "displayName": "mattpocock-skills-Codex"
+  },
+  "plugins": [
+    {
+      "name": "mattpocock-skills-codex",
+      "source": {
+        "source": "local",
+        "path": "./plugins/mattpocock-skills-codex"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
