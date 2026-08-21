@@ -30,9 +30,9 @@ codex plugin add mattpocock-skills-codex@mattpocock-skills-codex
 
 | 字段 | 值 |
 | --- | --- |
-| Source | `https://github.com/jianh-ai/mattpocock-skills-codex.git` |
-| Git ref ||
-| Sparse paths ||
+| 来源 | `https://github.com/jianh-ai/mattpocock-skills-codex.git` |
+| Git 引用 ||
+| 稀疏路径 ||
 
 添加软件源后，在应用界面，侧边栏-插件，搜素 `mattpocock‑skills‑codex` 即可点击安装。
 
