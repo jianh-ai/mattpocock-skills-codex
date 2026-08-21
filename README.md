@@ -29,7 +29,7 @@ In the Plugins or Marketplace settings, add a Git marketplace with these values:
 | --- | --- |
 | Source | `https://github.com/jianh-ai/mattpocock-skills-codex.git` |
 | Git ref | `main` |
-| Sparse paths | `` |
+| Sparse paths |  |
 
 After the marketplace is added, install `mattpocock-skills-codex` from it.
 
