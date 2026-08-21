@@ -1,5 +1,7 @@
 # mattpocock-skills-Codex
 
+[English](README.md) | [简体中文](README_ZH-CN.md)
+
 This is a Codex plugin adaptation of [mattpocock/skills](https://github.com/mattpocock/skills).
 
 ## Installation
@@ -27,7 +29,7 @@ In the Plugins or Marketplace settings, add a Git marketplace with these values:
 | --- | --- |
 | Source | `https://github.com/jianh-ai/mattpocock-skills-codex.git` |
 | Git ref | `main` |
-| Sparse paths | `plugins/mattpocock-skills-codex` |
+| Sparse paths | `` |
 
 After the marketplace is added, install `mattpocock-skills-codex` from it.
 
